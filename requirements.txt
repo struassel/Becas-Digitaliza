@@ -1,0 +1,8 @@
+tabulate
+ncclient
+netmiko
+lxml
+pprint
+requests
+xmltodict
+urllib3
