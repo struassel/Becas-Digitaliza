@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import sys
+sys.path.append("../../")
 
 import RequestedTasks.NetConf.utils as utils
 from RequestedTasks.credentials import ios_xe1
