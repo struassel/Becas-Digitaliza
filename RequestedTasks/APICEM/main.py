@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+import sys
+sys.path.append("../../")
 import RequestedTasks.APICEM.utils as utils
 from RequestedTasks.credentials import apic_endpoints
 import RequestedTasks.menu as menu
